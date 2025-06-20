@@ -33,18 +33,23 @@ The main goal of this project is to provide an interactive dashboard that helps 
 🎥 1. Content Type Distribution
 - How many Movies vs TV Shows are available on Netflix?
 - Which content type dominates the platform?
+
 📅 2. Content Growth Over the Years
 - In which years were the most shows and movies added to Netflix?
 - What trends can we observe in content addition over time?
+
 🌍 3. Country-wise Distribution
 - Which countries produce the most Netflix content?
 - How is Netflix's content geographically distributed?
+
 📊 4. Top Genres on Netflix
 - What are the top 10 most common genres or categories?
 - How does the frequency of genres compare?
+
 📆 5. Release and Addition Dates
 - What is the release year of the selected title?
 - When was this title added to Netflix?
+
 🕒 6. Duration of Content
 - What is the runtime or duration of a selected movie or show?
 🧾 7. Content Detail Lookup
