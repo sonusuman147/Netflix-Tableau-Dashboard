@@ -29,7 +29,7 @@ The main goal of this project is to provide an interactive dashboard that helps 
 ## 📚 Dataset
 - Source: [https://github.com/sonusuman147/Netflix-Tableau-Dashboard/blob/main/netflix_DATA.xlsx)
 
-##📌Key Questions##
+## 📌Key Questions##
 🎥 1. Content Type Distribution
 - How many Movies vs TV Shows are available on Netflix?
 - Which content type dominates the platform?
